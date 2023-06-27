@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm @AkshathaShetty1015</h1>
+<h3 align="center">A passionate Software Engineer developer from India</h3>
+<img align="right"alt="coding"width="400"src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshathashetty1015&label=Profile%20views&color=0e75b6&style=flat" alt="akshathashetty1015" /> </p>
 
-<!--
-**AkshathaShetty1015/AkshathaShetty1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python and web programming**
 
-Here are some ideas to get you started:
+- 🤝 I’m looking for help with **my learning and new technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **akshathashetty1015@gmail.com**
+
+- ⚡ Fun fact **I am cool😉**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/akshuu___shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshuu___shetty" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshathashetty1015&show_icons=true&locale=en&layout=compact" alt="akshathashetty1015" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshathashetty1015&show_icons=true&locale=en" alt="akshathashetty1015" /></p>
