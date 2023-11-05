@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshathashetty1015&show_icons=true&locale=en&layout=compact" alt="akshathashetty1015" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshathashetty1015&show_icons=true&locale=en" alt="akshathashetty1015" /></p>
+[![An image of @akshathashetty1015's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshathashetty1015)](https://holopin.io/@akshathashetty1015)
