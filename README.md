@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @AkshathaShetty1015</h1>
+<h1 align="center">Hi There..!👋, I'm AkshathaShetty1015</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshathashetty1015&label=Profile%20views&color=0e75b6&style=flat" alt="akshathashetty1015" /> </p>
@@ -26,3 +26,4 @@
 
 
 [![An image of @akshathashetty1015's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshathashetty1015)](https://holopin.io/@akshathashetty1015)
+<h2 align="center">Thanks for visiting!❤️</h2>
