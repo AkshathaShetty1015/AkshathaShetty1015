@@ -26,4 +26,7 @@
 
 
 [![An image of @akshathashetty1015's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshathashetty1015)](https://holopin.io/@akshathashetty1015)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkshathaShetty1015)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h2 align="center">Thanks for visiting!❤️</h2>
